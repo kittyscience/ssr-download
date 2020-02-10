@@ -10,7 +10,10 @@ ShadowsocksR:
 > ssrr-android.apk
 
 clash:
-> clash-android.apk
+> ClashA.apk
+
+clash:
+> ClashAR.apk
 
 v2rayNG:
 > v2rayNG.apk
